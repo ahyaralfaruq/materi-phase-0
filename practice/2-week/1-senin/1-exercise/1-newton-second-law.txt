@@ -1,0 +1,9 @@
+INPUT M as 600
+INPUT A as 2
+CALCULATE M and A by times operator to get result of F
+PRINT F as result
+
+m = 600
+a = 2
+f = m * a
+f = 1200

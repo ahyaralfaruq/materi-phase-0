@@ -1,0 +1,5 @@
+SIAPKAN pakaian sebanyak 20 buah
+MASUKKAN 1 pakaian kedalam mesin cuci
+HITUNGLAH setiap pakaian yang masuk
+LAKUKAN step 2 dan step 3 secara berulang-ulang hingga semua pakaian masuk kedalam mesin cuci
+NYALAKAN mesin cuci

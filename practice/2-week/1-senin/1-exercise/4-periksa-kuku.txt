@@ -1,0 +1,6 @@
+LAKUKAN perulangan sebagai dasar untuk mengelilingi seluruh murid yang ada dikelas
+PERIKSA setiap murid dengan kondisi :
+JIKA menemukan murid dengan kuku yang panjang
+LAKUKAN "murid akan dihukum!"
+SELAIN ITU
+LAKUKAN "puji murid"

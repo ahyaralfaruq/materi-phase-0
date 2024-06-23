@@ -1,0 +1,7 @@
+INPUT tahun EQUALS 2004
+DO CONDITION
+  IF tahun DIVISIBLE BY 4 AND tahun NOT DIVISIBLE BY 100
+    OR tahun DIVISIBLE BY 4 AND tahun DIVISIBLE BY 100 AND tahun DIVISIBLE BY 400
+      PRINT "ini tahun kabisat !"
+    ELSE
+      PRINT "ini bukan tahun kabisat !"
