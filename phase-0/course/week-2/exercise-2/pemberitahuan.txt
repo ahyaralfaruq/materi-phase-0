@@ -1,0 +1,3 @@
+untuk course ini dialihkan ke situs codecademy dengan link dibawah ini :
+
+https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/exercises/review
